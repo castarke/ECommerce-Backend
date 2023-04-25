@@ -3,7 +3,7 @@ const { Model, DataTypes } = require('sequelize');
 const sequelize = require('../config/connection');
 
 class ProductTag extends Model {}
-
+// product tag has id, product id, and tag id
 ProductTag.init(
   {
     // define columns
