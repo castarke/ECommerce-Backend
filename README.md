@@ -63,7 +63,7 @@
   Please run an npm i and make sure that mysql2, sequelize, and express are ready to go. You will need to start mysql first by running mysql -u root -p and then source the schema. Once the db has been created, open up the express terminal and do a npm run seeds. Once the server is live, you will be able to use insomina to use each route as needed.
 ## Usage
   Please see link below for the walkthrough video:
-
+https://drive.google.com/file/d/1d6mooUo3kG8-81-LpSMdNFI06of8lqc3/view
 ## Credits
   mysql2, sequelize, dotenv, nodemon
 
